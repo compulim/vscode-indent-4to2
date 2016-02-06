@@ -2,6 +2,8 @@
 
 Convert indentation from tab or 4 spaces into 2 spaces.
 
+![Demostration of using this extension](https://raw.githubusercontent.com/compulim/vscode-indent-4to2/master/demo.gif)
+
 ## Usage
 
 ### Quick keyboard usage
@@ -16,7 +18,7 @@ Convert indentation from tab or 4 spaces into 2 spaces.
 
 ```js
 {
-  "key": "ctrl+shift+4",
+  "key": "ctrl+shift+2",
   "command": "4to2.convert4to2",
   "when": "editorFocus"
 }

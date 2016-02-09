@@ -2,7 +2,7 @@
   "name": "indent4to2",
   "displayName": "Indent 4-to-2",
   "description": "Convert indentation from tab or 4 spaces into 2 spaces",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "Compulim",
   "engines": {
     "vscode": "^0.10.1"
@@ -29,6 +29,6 @@
     }]
   },
   "devDependencies": {
-    "vscode": "0.10.x"
+    "vscode": "^0.11.x"
   }
 }

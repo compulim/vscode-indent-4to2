@@ -9,6 +9,12 @@
   },
   "icon": "icon.png",
   "galleryBanner.color": "#0D5CAB",
+  "keywords": [
+    "indent",
+    "tab"
+    "space",
+    "spacing"
+  ],
   "categories": [
     "Other"
   ],
